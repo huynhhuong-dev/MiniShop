@@ -9,7 +9,7 @@
 | Họ và tên |Nguyễn Đoàn Huỳnh Hương |
 | Mã số sinh viên (MSSV) | 2305CT0721 |
 | Lớp thực hành (ghi 261042100101_A hoặc 261042100201_B) |261042100201_B |
-| Tài khoản GitHub |huynhhuong- |
+| Tài khoản GitHub |huynhhuong-dev |
 
 Điền ngay trên trình duyệt: bấm biểu tượng cây bút (**Edit this file**) ở góc phải của tệp này, gõ vào các ô trống, rồi bấm **Commit changes**.
 
