@@ -6,10 +6,10 @@
 
 | Mục | Điền vào đây |
 |---|---|
-| Họ và tên | |
-| Mã số sinh viên (MSSV) | |
-| Lớp thực hành (ghi 261042100101_A hoặc 261042100201_B) | |
-| Tài khoản GitHub | |
+| Nguyễn Đoàn Huỳnh Hương | |
+| Mã số sinh viên (2305CT0721) | |
+| Lớp thực hành (261042100201_B) | |
+| Tài khoản GitHub (huynhhuong-) | |
 
 Điền ngay trên trình duyệt: bấm biểu tượng cây bút (**Edit this file**) ở góc phải của tệp này, gõ vào các ô trống, rồi bấm **Commit changes**.
 
